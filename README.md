@@ -1,3 +1,22 @@
+
+
+### What I would have done with more time:
+- Added a translation key manager with i18n
+- Replaced CSS with Sass
+- Added a linter
+- Added more extensive tests
+- Added more components
+
+### Points that slowed me down:
+- I started the exercise using the provided template and then completely redid it in React.
+- I lost some time setting up Mock for the store for tests, as I hadn't worked with Redux for over a year.
+
+### Other points:
+- Some components were classified as molecules because, typically, radios would have been considered atoms. With more time, I would have also created a text component managing titles and text to limit CSS classes.
+
+---
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -44,3 +63,5 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
