@@ -1,0 +1,32 @@
+/* Couleurs de base */
+:root {
+  --color-primary: #007bff;  
+  --color-secondary: #6c757d; 
+  --color-success: #28a745;   
+  --color-error: #dc3545;     
+  --color-warning: #ffc107;   
+
+  --background-default: #f4f4f5;
+  --text-default: #333;
+  --border-color: #ddd;
+
+  --color-grey-500: #ddd;
+}
+
+/* Tailles de texte */
+:root {   
+  --text-size-normal: 1rem;       
+  --text-size-large: 1.2rem;      
+  --heading-size-h1: 2rem;     
+  --heading-size-h2: 1.5rem;      
+  --heading-size-h3: 1.17rem;     
+}
+
+/* Espacements */
+:root {
+  --spacing-xs: 4px;             
+  --spacing-sm: 8px;             
+  --spacing-md: 16px;             
+  --spacing-lg: 24px;             
+  --spacing-xl: 32px;             
+}

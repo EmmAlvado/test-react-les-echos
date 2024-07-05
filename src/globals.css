@@ -1,0 +1,15 @@
+@import url(../src/styles/variables.css);
+
+@import url(../src/styles/components/change-user-banner.css);
+@import url(../src/styles/components/button.css);
+@import url(../src/styles/components/grid.css);
+@import url(../src/styles/components/header-insert.css);
+@import url(../src/styles/components/newsletter-card.css);
+@import url(../src/styles/components/section-title.css);
+
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 15px;
+}

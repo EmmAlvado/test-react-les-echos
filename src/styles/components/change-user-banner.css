@@ -1,0 +1,22 @@
+
+.change-user-banner {
+    position: sticky;
+    bottom: 0;
+    width: 100%;
+    background-color: var(--background-default);
+    border-top: 1px solid var(--border-color);
+    padding: var(--spacing-sm);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .change-user-banner label {
+    font-size: var(--text-size-normal);
+    margin-right: var(--spacing-sm);
+  }
+  
+  .change-user-banner input[type="radio"] {
+    margin-right: var(--spacing-xs);
+  }
